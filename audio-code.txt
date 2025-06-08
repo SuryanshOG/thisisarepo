@@ -1404,7 +1404,7 @@ background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' 
 					<li class="js-activity" style="display: block; cursor: pointer;">
 						
 					</li>
-				</ul>
+				</ul
 				<!-- <ul class="engagement_insights_panels" id="engagement_insights_panels">
 					<li class="viewes_analytic">
 						<h4>Views</h4>
